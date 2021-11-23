@@ -1,0 +1,31 @@
+"*":
+  "atom-material-ui":
+    colors:
+      genAccent: true
+      predefinedColor: "Lime"
+    fonts:
+      fontSize: 18
+    tabs:
+      tintedTabBar: true
+    ui:
+      panelContrast: true
+      panelShadows: true
+  core:
+    closeDeletedFileTabs: true
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "monokai"
+    ]
+  editor:
+    defaultFontSize: 16
+    fontSize: 17
+    showIndentGuide: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+  "exception-reporting":
+    userId: "601a36d7-d554-46b4-b4fe-ae2233ffe629"
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
